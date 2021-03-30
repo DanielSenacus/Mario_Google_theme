@@ -4,4 +4,4 @@
 
 <hr>
 
-<img src="">
+<img width="60" src="https://github.com/DanielSenacus/Mario_Google_theme/blob/master/images/mario.png">
